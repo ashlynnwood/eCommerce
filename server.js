@@ -37,7 +37,5 @@ sequelize.sync({ force: false }).then(() => {
 
 // each product has mult tag
 
-// tag
-
 // product belongs to category
 
