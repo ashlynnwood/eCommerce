@@ -18,7 +18,7 @@
   ## Installation
 To use this, you will need to install node. Ton install necessary dependencies in node, run the command `npm i`
   ## Usage
-  A user can view all, find a single one by id, update, delete, and create new products, catregories, or tags for their ecommerce store.
+  A user can view all, find a single one by id, update, delete, and create new products, categories, or tags for their eCommerce store.
 
   ## License
   This project is licensed under the MIT.
